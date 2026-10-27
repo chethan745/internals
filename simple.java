@@ -1,3 +1,6 @@
-public class simple{
-  System.out.print ("hello jenkins");
+
+public class simple {
+    public static void main(String[] args) {
+        System.out.println("hello jenkins");
+    }
 }
